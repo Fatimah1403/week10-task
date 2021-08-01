@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "MyTask2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MyTask2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyTask2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyTask2/1.0.0": {
+      "type": "project",
+      "path": "../MyTask2/MyTask2.csproj",
+      "msbuildProject": "../MyTask2/MyTask2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "MyTask2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kydba\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Women techsters\\fattyass tasks\\myweek10task2\\Week10Task2\\Week10Task2.csproj",
+      "projectName": "Week10Task2",
+      "projectPath": "C:\\Women techsters\\fattyass tasks\\myweek10task2\\Week10Task2\\Week10Task2.csproj",
+      "packagesPath": "C:\\Users\\kydba\\.nuget\\packages\\",
+      "outputPath": "C:\\Women techsters\\fattyass tasks\\myweek10task2\\Week10Task2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kydba\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Women techsters\\fattyass tasks\\myweek10task2\\MyTask2\\MyTask2.csproj": {
+              "projectPath": "C:\\Women techsters\\fattyass tasks\\myweek10task2\\MyTask2\\MyTask2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

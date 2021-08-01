@@ -1,0 +1,12 @@
+C:\Women techsters\fattyass tasks\myweek10task2\MyTask2\bin\Debug\net5.0\MyTask2.deps.json
+C:\Women techsters\fattyass tasks\myweek10task2\MyTask2\bin\Debug\net5.0\MyTask2.dll
+C:\Women techsters\fattyass tasks\myweek10task2\MyTask2\bin\Debug\net5.0\ref\MyTask2.dll
+C:\Women techsters\fattyass tasks\myweek10task2\MyTask2\bin\Debug\net5.0\MyTask2.pdb
+C:\Women techsters\fattyass tasks\myweek10task2\MyTask2\obj\Debug\net5.0\MyTask2.csproj.AssemblyReference.cache
+C:\Women techsters\fattyass tasks\myweek10task2\MyTask2\obj\Debug\net5.0\MyTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Women techsters\fattyass tasks\myweek10task2\MyTask2\obj\Debug\net5.0\MyTask2.AssemblyInfoInputs.cache
+C:\Women techsters\fattyass tasks\myweek10task2\MyTask2\obj\Debug\net5.0\MyTask2.AssemblyInfo.cs
+C:\Women techsters\fattyass tasks\myweek10task2\MyTask2\obj\Debug\net5.0\MyTask2.csproj.CoreCompileInputs.cache
+C:\Women techsters\fattyass tasks\myweek10task2\MyTask2\obj\Debug\net5.0\MyTask2.dll
+C:\Women techsters\fattyass tasks\myweek10task2\MyTask2\obj\Debug\net5.0\ref\MyTask2.dll
+C:\Women techsters\fattyass tasks\myweek10task2\MyTask2\obj\Debug\net5.0\MyTask2.pdb
